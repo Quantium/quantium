@@ -2,7 +2,7 @@
 ![Quantium's Github Stats](https://github-readme-stats.vercel.app/api?username=quantium&count_private=true&show_icons=true&theme=vision-friendly-dark)
 
 - 🔭 I’m currently working on [Urbvan](https://urbvan.com/) as CTO
-- 🌱 I’m currently learning [Nim](https://nim-lang.org/)
+- 🌱 I’m currently learning [Rust](https://www.rust-lang.org/)
 - 👯 I’m looking to collaborate on **Coding platforms for Blind people**
 - ⌨️ I use [NeoVim](https://neovim.io) as Preferred code editor
 - 🤔 I’m looking for help with **Hiring Developer, Testers, Automators, SCRUM Masters, Product Owners and Tech Managers**
