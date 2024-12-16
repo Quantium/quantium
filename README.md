@@ -12,7 +12,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/quantium)
 
-[![Kaggle](https://www.googleapis.com/download/storage/v1/b/kaggle-forum-message-attachments/o/inbox%2F304806%2Ff02508d57d158b78d0ddeef07e663f09%2Finbox_304806_fce8defa23d8597a7982f7b7c480d9f7_Badge-46.svg?generation=1727286424547750&alt=media)](https://www.kaggle.com/quantium)
+[![Kaggle](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1488634%2F67ef0b5ce92c52f5ead19d2008c795de%2FBadge-48.svg?generation=1727468442673351&alt=media)](https://www.kaggle.com/quantium)
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/Quantium1)
 [![AngelList](https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black)](https://angel.co/u/andres-gonzalez-aragon)
 [![Contact Quantium on Codementor](https://www.codementor.io/m-badges/quantium/book-session.svg)](https://www.codementor.io/@quantium?refer=badge)
