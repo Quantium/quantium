@@ -1,20 +1,21 @@
 ![Trophy](https://github-profile-trophy.vercel.app/?username=quantium&theme=radical&no-bg=true&rank=-C,-D&no-frame=false)
 ![Quantium's Github Stats](https://github-readme-stats.vercel.app/api?username=quantium&count_private=true&show_icons=true&theme=vision-friendly-dark)
 
-- 🔭 I’m currently working on [Traxion](http://traxion.global/) as **Director of Innovation** in the Ground Passenger Division
-- 🌱 I’m currently learning [GO](https://go.dev/)
-- 👯 I’m looking to collaborate on **Coding platforms for Blind people**
-- ⌨️ I use [NeoVim](https://neovim.io) as Preferred code editor but I'm switching to [Visual Studio Code](https://code.visualstudio.com/) lately
-- 💬 Ask me about **Algorithms, Architecture, SCRUM, Product Management, ITSM, IT Governance, Leadership, Startups, CTOs, CIOs, Innovation**
+- 🔭 I’m currently studying at [MIT](https://professional.mit.edu/) a **CTO Blended Program** divided in MIT 5 courses
+- 🔭 I’m currently working with [Traxion](http://traxion.global/) as **Director of Innovation** in the Ground Passenger Division
+- 🌱 I’m currently learning [Machine Learning at Kaggle]([https://go.dev/](https://www.kaggle.com/learn))
+- 👯 I’m looking to collaborate on **Coding platforms for Blind people and Mu**
+- ⌨️ I use [Visual Studio Code]([https://neovim.io](https://code.visualstudio.com/)) as Preferred code editor
+- 💬 Ask me about **Algorithms, Architecture, SCRUM, Product Management, Innovation, Startups**
 - 😄 Pronouns: *he/his/him*
 - ⚡ Fun fact: **I play** 🎸 **,** 🎹 **&** 🪗
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/quantium)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/quantium)
+
+[![Kaggle](https://www.googleapis.com/download/storage/v1/b/kaggle-forum-message-attachments/o/inbox%2F304806%2Ff02508d57d158b78d0ddeef07e663f09%2Finbox_304806_fce8defa23d8597a7982f7b7c480d9f7_Badge-46.svg?generation=1727286424547750&alt=media)](https://www.kaggle.com/quantium)
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/Quantium1)
 [![AngelList](https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black)](https://angel.co/u/andres-gonzalez-aragon)
 [![Contact Quantium on Codementor](https://www.codementor.io/m-badges/quantium/book-session.svg)](https://www.codementor.io/@quantium?refer=badge)
-
 
 ![Quantium's Github Contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=quantium&theme=vue)
 
