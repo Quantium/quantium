@@ -1,12 +1,11 @@
 ![Trophy](https://github-profile-trophy.vercel.app/?username=quantium&theme=radical&no-bg=true&rank=-C,-D&no-frame=false)
 ![Quantium's Github Stats](https://github-readme-stats.vercel.app/api?username=quantium&count_private=true&show_icons=true&theme=vision-friendly-dark)
 
-- 🔭 I’m currently studying at [MIT](https://professional.mit.edu/) a **CTO Blended Program** divided in MIT 5 courses
-- 🔭 I’m currently working with [Traxion](http://traxion.global/) as **Director of Innovation** in the Ground Passenger Division
+- 🔭 I’m currently working in [Traxion](http://isotopo.net/) as **Founding Partner**
 - 🌱 I’m currently learning [Machine Learning at Kaggle]([https://go.dev/](https://www.kaggle.com/learn))
-- 👯 I’m looking to collaborate on **Coding platforms for Blind people and Mu**
-- ⌨️ I use [Visual Studio Code]([https://neovim.io](https://code.visualstudio.com/)) as Preferred code editor
-- 💬 Ask me about **Algorithms, Architecture, SCRUM, Product Management, Innovation, Startups**
+- 👯 I’m looking to collaborate on **Coding platforms for Blind people**
+- ⌨️ I use [Visual Studio Code](https://code.visualstudio.com/) as Preferred code editor
+- 💬 Ask me about **Algorithms, Architecture, Agile Methodologies, Product Management, Innovation, Startups**
 - 😄 Pronouns: *he/his/him*
 - ⚡ Fun fact: **I play** 🎸 **,** 🎹 **&** 🪗
 
