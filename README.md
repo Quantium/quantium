@@ -1,7 +1,7 @@
 ![Trophy](https://github-profile-trophy.vercel.app/?username=quantium&theme=radical&no-bg=true&rank=-C,-D&no-frame=false)
 ![Quantium's Github Stats](https://github-readme-stats.vercel.app/api?username=quantium&count_private=true&show_icons=true&theme=vision-friendly-dark)
 
-- 🔭 I’m currently working in [Traxion](http://isotopo.net/) as **Founding Partner**
+- 🔭 I’m currently working in [Isotopo](http://isotopo.net/) as **Founding Partner**
 - 🌱 I’m currently learning [Machine Learning at Kaggle]([https://go.dev/](https://www.kaggle.com/learn))
 - 👯 I’m looking to collaborate on **Coding platforms for Blind people**
 - ⌨️ I use [Visual Studio Code](https://code.visualstudio.com/) as Preferred code editor
