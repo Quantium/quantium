@@ -30,7 +30,7 @@
 - ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 - ![R](https://img.shields.io/badge/R-%23777BB4.svg?style=for-the-badge&logo=R&logoColor=white)
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/quantium)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soyandyaragon)
 
 [![Kaggle](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1488634%2F67ef0b5ce92c52f5ead19d2008c795de%2FBadge-48.svg?generation=1727468442673351&alt=media)](https://www.kaggle.com/quantium)
 
